@@ -3,7 +3,7 @@
 <head lang="en">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <title>Seosight - Shop</title>
+    <title>GBPS E-commerce</title>
 
     <link rel="stylesheet" type="text/css" href="{{asset('app/css/fonts.css')}}">
     <link rel="stylesheet" type="text/css" href="{{asset('app/css/crumina-fonts.css')}}">
@@ -76,8 +76,8 @@
         <div class="row pt120">
             <div class="col-lg-8 col-lg-offset-2">
                 <div class="heading align-center mb60">
-                    <h4 class="h1 heading-title">Udemy E-commerce tutorial</h4>
-                    <p class="heading-text">Buy books, and we ship to you.
+                    <h4 class="h1 heading-title">Granite Bagas E-commerce</h4>
+                    <p class="heading-text">Buy books, buy happiness
                     </p>
                 </div>
             </div>
